@@ -20,3 +20,5 @@ Features:
 📱 Mobile-Friendly
 🚀 Personal Web Dev Project
 
+To view the project, simply clone the repository and open the travel-agency.html file in your browser.
+
